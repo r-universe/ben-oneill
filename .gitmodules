@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ts.extend"]
+	path = ts.extend
+	url = https://github.com/ben-oneill/ts.extend
+	shallow = true
+	registered = true
+[submodule "utilities"]
+	path = utilities
+	url = https://github.com/ben-oneill/utilities
+	shallow = true
+	registered = true
