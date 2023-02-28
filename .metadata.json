@@ -1,10 +1,9 @@
 [
   {
-    "package": "ts.extend",
+    "package": "utilities",
     "oncran": true
   },
   {
-    "package": "utilities",
-    "oncran": true
+    "package": "ts.extend"
   }
 ]
