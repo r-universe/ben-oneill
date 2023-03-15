@@ -1,9 +1,9 @@
 [
   {
-    "package": "utilities",
-    "oncran": true
+    "package": "ts.extend"
   },
   {
-    "package": "ts.extend"
+    "package": "utilities",
+    "oncran": true
   }
 ]
