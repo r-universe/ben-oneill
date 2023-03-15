@@ -1,5 +1,9 @@
 [
   {
+    "package": "occupancy",
+    "oncran": true
+  },
+  {
     "package": "ts.extend"
   },
   {
