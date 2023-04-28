@@ -8,11 +8,6 @@
 	url = https://github.com/ben-oneill/occupancy
 	shallow = true
 	registered = true
-[submodule "ts.extend"]
-	path = ts.extend
-	url = https://github.com/ben-oneill/ts.extend
-	shallow = true
-	registered = true
 [submodule "utilities"]
 	path = utilities
 	url = https://github.com/ben-oneill/utilities
