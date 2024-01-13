@@ -5,6 +5,3 @@
 [submodule "occupancy"]
 	path = occupancy
 	url = https://github.com/ben-oneill/occupancy
-[submodule "utilities"]
-	path = utilities
-	url = https://github.com/ben-oneill/utilities
